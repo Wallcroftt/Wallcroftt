@@ -3,7 +3,7 @@
 ### 🚀 De la Qualité Agroalimentaire à l'Ingénierie des Données
 Titulaire d'un **Master en Analyse des risques sanitaires liés à l'alimentation**, j'ai passé des années à cartographier des processus complexes, à traquer les anomalies et à garantir des standards de qualité maximaux dans des environnements exigeants. 
 
-Aujourd'hui, j'applique cette rigueur scientifique au monde de la Tech. Récemment diplômé d'un **titre RNCP de Niveau 7 (Bac+5) "Expert en ingénierie et science des données"**[cite: 2], je transpose mon expertise de la gestion des risques vers l'architecture de pipelines de données industriels, le monitoring et la gouvernance de la donnée.
+Aujourd'hui, j'applique cette rigueur scientifique au monde de la Tech. Récemment diplômé d'un **titre RNCP de Niveau 7 (Bac+5) "Expert en ingénierie et science des données"**, je transpose mon expertise de la gestion des risques vers l'architecture de pipelines de données industriels, le monitoring et la gouvernance de la donnée.
 
 * **Ma philosophie :** Tout comme un produit de consommation, une donnée ne prend de la valeur que si sa chaîne d'approvisionnement (pipeline) est stérile, monitorée et exempte d'anomalies.
 
@@ -11,9 +11,9 @@ Aujourd'hui, j'applique cette rigueur scientifique au monde de la Tech. Récemme
 
 ## 🎓 Mon Parcours & Certifications
 
-* **Master's degree in Data Science** | Accréditation américaine WASC[cite: 2]
-* **Titre Professionnel RNCP39775 (Niveau 7 / Bac+5)** | *Expert en ingénierie et science des données* (OpenClassrooms)[cite: 2]
-* **Pédagogie par la pratique :** Plus de 1200 heures d'investissement intensif basées sur **80% de réalisations concrètes** à travers 14 projets métiers clés[cite: 2].
+* **Master's degree in Data Science** | Accréditation américaine WASC
+* **Titre Professionnel RNCP39775 (Niveau 7 / Bac+5)** | *Expert en ingénierie et science des données* (OpenClassrooms)
+* **Pédagogie par la pratique :** Plus de 1200 heures d'investissement intensif basées sur 80% de réalisations concrètes à travers 14 projets métiers clés.
 * **Cursus initial :** Master Analyse des risques sanitaires liés à l'alimentation.
 
 ---
@@ -22,31 +22,31 @@ Aujourd'hui, j'applique cette rigueur scientifique au monde de la Tech. Récemme
 
 | Domaine | Technologies maîtrisées |
 | :--- | :--- |
-| **Langages & Traitement** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-61DAFB?style=flat-square) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)[cite: 2] |
-| **Data Engineering & Cloud** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CE2?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235843d7.svg?style=flat-square&logo=terraform&logoColor=white)[cite: 2] |
-| **Bases de Données (SQL/NoSQL)**| ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-black?style=flat-square)[cite: 2] |
-| **Data Quality, Orchestration & BI** | ![SODA](https://img.shields.io/badge/SODA%20Core-red?style=flat-square) ![Kestra](https://img.shields.io/badge/Kestra-purple?style=flat-square) ![Airbyte](https://img.shields.io/badge/Airbyte-darkblue?style=flat-square) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)[cite: 2] |
+| **Langages & Traitement** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-61DAFB?style=flat-square) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data Engineering & Cloud** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CE2?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235843d7.svg?style=flat-square&logo=terraform&logoColor=white) |
+| **Bases de Données (SQL/NoSQL)**| ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-black?style=flat-square) |
+| **Data Quality, Orchestration & BI** | ![SODA](https://img.shields.io/badge/SODA%20Core-red?style=flat-square) ![Kestra](https://img.shields.io/badge/Kestra-purple?style=flat-square) ![Airbyte](https://img.shields.io/badge/Airbyte-darkblue?style=flat-square) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
 ---
 
 ## 📂 Projets Majeurs Issus de ma Certification
 
 ### 🤖 [Puls-Events](https://github.com/Wallcroftt) • Industrialisation d'un Système IA (Du POC au MVP)
-Passage à l'échelle d'un assistant conversationnel intelligent basé sur une architecture RAG[cite: 2].
-* **Architecture & Backend :** Développement asynchrone sous **FastAPI** couplé à une base vectorielle[cite: 2].
+Passage à l'échelle d'un assistant conversationnel intelligent basé sur une architecture RAG.
+* **Architecture & Backend :** Développement asynchrone sous **FastAPI** couplé à une base vectorielle.
 * **IA & Robustesse :** Utilisation de **Gemini 1.5 Flash** via **Vertex AI** avec un agent de recherche web (**smolagent**) pour éliminer les hallucinations en temps réel.
 * **FinOps & Cache :** Implémentation de **Redis** pour la gestion de session éphémère et la réduction drastique des coûts d'API.
 * **Infrastructure as Code :** Déploiement automatisé serverless sur **Google Cloud Run** via **Terraform**.
 
 ### 🏃‍♂️ [Sport Data Solution](https://github.com/Wallcroftt) • Pipeline de Données Hybride & Contrôle Qualité (Streaming & Batch)
-Mise en place d'une infrastructure de collecte des performances sportives des collaborateurs pour l'attribution de primes RH[cite: 2].
-* **Ingestion (Temps réel) :** Capture des événements (API Strava) via **Apache Kafka** et alertes automatisées sur **Slack**[cite: 2].
-* **Orchestration (Batch) :** Croisement quotidien de données RH froides et de données de streaming sous **Apache Airflow**[cite: 2].
+Mise en place d'une infrastructure de collecte des performances sportives des collaborateurs pour l'attribution de primes RH.
+* **Ingestion (Temps réel) :** Capture des événements (API Strava) via **Apache Kafka** et alertes automatisées sur **Slack**.
+* **Orchestration (Batch) :** Croisement quotidien de données RH froides et de données de streaming sous **Apache Airflow**.
 * **Data Quality & Sécurité :** Implémentation de tests d'intégrité avec **SODA Core** sur **PostgreSQL** et validation géographique des trajets via l'API Google Maps pour bloquer les anomalies déclaratives.
 
 ### 🏢 [Seattle Energy Benchmarking](https://github.com/Wallcroftt) • Analyse Prédictive & MLOps
-Optimisation et prédiction de la consommation énergétique des bâtiments non résidentiels de la ville de Seattle[cite: 2].
-* **Modélisation :** Nettoyage rigoureux des données (Pandas), feature engineering et entraînement d'algorithmes de régression (RandomForest, SVR) optimisés par validation croisée via **Scikit-Learn**[cite: 2].
+Optimisation et prédiction de la consommation énergétique des bâtiments non résidentiels de la ville de Seattle.
+* **Modélisation :** Nettoyage rigoureux des données (Pandas), feature engineering et entraînement d'algorithmes de régression (RandomForest, SVR) optimisés par validation croisée via **Scikit-Learn**.
 * **Packaging & API :** Conteneurisation et exposition du modèle prédictif final via le framework **BentoML** pour une mise en production immédiate.
 
 ---
@@ -54,8 +54,7 @@ Optimisation et prédiction de la consommation énergétique des bâtiments non 
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wallcroftt&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Statistiques GitHub" width="45%" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallcroftt&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Langages" width="45%" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wallcroftt&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Statistiques GitHub" width="60%"/>
 </p>
 
 ---
