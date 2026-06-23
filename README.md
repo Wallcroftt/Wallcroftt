@@ -13,7 +13,7 @@ Aujourd'hui, j'applique cette rigueur scientifique au monde de la Tech. Récemme
 
 * **Master's degree in Data Science** | Accréditation américaine WASC
 * **Titre Professionnel RNCP39775 (Niveau 7 / Bac+5)** | *Expert en ingénierie et science des données* (OpenClassrooms)
-* **Pédagogie par la pratique :** Plus de 1200 heures d'investissement intensif basées sur 80% de réalisations concrètes à travers 14 projets métiers clés.
+* **Pédagogie par la pratique :** Plus de 1200 heures d'investissement intensif basées sur 80% de réalisations concrètes à travers 13 projets métiers clés.
 * **Cursus initial :** Master Analyse des risques sanitaires liés à l'alimentation.
 
 ---
@@ -31,23 +31,17 @@ Aujourd'hui, j'applique cette rigueur scientifique au monde de la Tech. Récemme
 
 ## 📂 Projets Majeurs Issus de ma Certification
 
-### 🤖 [Puls-Events](https://github.com/Wallcroftt) • Industrialisation d'un Système IA (Du POC au MVP)
-Passage à l'échelle d'un assistant conversationnel intelligent basé sur une architecture RAG.
-* **Architecture & Backend :** Développement asynchrone sous **FastAPI** couplé à une base vectorielle.
-* **IA & Robustesse :** Utilisation de **Gemini 1.5 Flash** via **Vertex AI** avec un agent de recherche web (**smolagent**) pour éliminer les hallucinations en temps réel.
-* **FinOps & Cache :** Implémentation de **Redis** pour la gestion de session éphémère et la réduction drastique des coûts d'API.
-* **Infrastructure as Code :** Déploiement automatisé serverless sur **Google Cloud Run** via **Terraform**.
+### 🧠 [Puls-Events](https://github.com/Wallcroftt/Puls-Events) • Industrialisation d'un Système IA RAG (Du POC au MVP)
+Développement d'un agent de recherche intelligent capable de répondre aux questions des utilisateurs en interrogeant des sources de données en temps réel via une architecture **RAG (Retrieval-Augmented Generation)**.
+* **Architecture IA :** Conception d'un pipeline complet intégrant des modèles de langage (LLM) avec **FastAPI** et **LangChain** pour la gestion du contexte et des vecteurs.
+* **Vector Database :** Stockage sémantique des données pour permettre une recherche de similarité efficace et pertinente, garantissant des réponses augmentées et factuelles.
+* **Industrialisation Serverless :** Déploiement automatisé et scalable sur **Google Cloud Run**, incluant la gestion des secrets et la configuration d'un environnement de production sécurisé via **Terraform**.
 
-### 🏃‍♂️ [Sport Data Solution](https://github.com/Wallcroftt) • Pipeline de Données Hybride & Contrôle Qualité (Streaming & Batch)
+### 🏃‍♂️ [Sport Data Solution](http://github.com/Wallcroftt/SportDataSolution) • Pipeline de Données Hybride & Contrôle Qualité (Streaming & Batch)
 Mise en place d'une infrastructure de collecte des performances sportives des collaborateurs pour l'attribution de primes RH.
 * **Ingestion (Temps réel) :** Capture des événements (API Strava) via **Apache Kafka** et alertes automatisées sur **Slack**.
 * **Orchestration (Batch) :** Croisement quotidien de données RH froides et de données de streaming sous **Apache Airflow**.
 * **Data Quality & Sécurité :** Implémentation de tests d'intégrité avec **SODA Core** sur **PostgreSQL** et validation géographique des trajets via l'API Google Maps pour bloquer les anomalies déclaratives.
-
-### 🏢 [Seattle Energy Benchmarking](https://github.com/Wallcroftt) • Analyse Prédictive & MLOps
-Optimisation et prédiction de la consommation énergétique des bâtiments non résidentiels de la ville de Seattle.
-* **Modélisation :** Nettoyage rigoureux des données (Pandas), feature engineering et entraînement d'algorithmes de régression (RandomForest, SVR) optimisés par validation croisée via **Scikit-Learn**.
-* **Packaging & API :** Conteneurisation et exposition du modèle prédictif final via le framework **BentoML** pour une mise en production immédiate.
 
 ---
 
