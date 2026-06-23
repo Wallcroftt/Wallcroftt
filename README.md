@@ -43,6 +43,11 @@ Mise en place d'une infrastructure de collecte des performances sportives des co
 * **Orchestration (Batch) :** Croisement quotidien de données RH froides et de données de streaming sous **Apache Airflow**.
 * **Data Quality & Sécurité :** Implémentation de tests d'intégrité avec **SODA Core** sur **PostgreSQL** et validation géographique des trajets via l'API Google Maps pour bloquer les anomalies déclaratives.
 
+### 🏢 [Seattle Energy Benchmarking](https://github.com/Wallcroftt/SeattleEnergyBenchmarking) • Analyse Prédictive & MLOps
+Optimisation et prédiction de la consommation énergétique des bâtiments non résidentiels de la ville de Seattle.
+* **Modélisation :** Nettoyage rigoureux des données (Pandas), feature engineering et entraînement d'algorithmes de régression (RandomForest, SVR) optimisés par validation croisée via **Scikit-Learn**.
+* **Packaging & API :** Conteneurisation et exposition du modèle prédictif final via le framework **BentoML** pour une mise en production immédiate.
+
 ---
 
 ## 📊 Statistiques GitHub
